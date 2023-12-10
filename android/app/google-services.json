@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531544240111",
+    "project_id": "funhousestroe",
+    "storage_bucket": "funhousestroe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531544240111:android:3b3805be92269fbfb3101a",
+        "android_client_info": {
+          "package_name": "com.example.fun_house_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6q5O3trTUbkY51glTcn0myHQelCWjcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
